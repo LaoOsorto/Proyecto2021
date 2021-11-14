@@ -1,0 +1,2 @@
+# Proyecto2021
+su Metodo PUT o Update no esta correcto, este metodo debe actulizar todos los campos de la entidad y en su caso solo esta actualizando el detalle y estado. no es lo solicitado.
